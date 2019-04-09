@@ -1,0 +1,12 @@
+{
+    "name": "wilder15/twig",
+    "authors": [
+        {
+            "name": "Solène Rambaut",
+            "email": "rambaut.solene@yahoo.fr"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    }
+}
